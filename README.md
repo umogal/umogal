@@ -1,13 +1,15 @@
-# 👋 Hi, I'm [Your Name]
+Hi, I'm Mogal.
 
-**`Student`**
-⚡ Interested in building solutions at the intersection of **`Edge computing and AI`** and **`[Secondary Interest]`**  
-🌱 Currently learning **`ML`**  
-💬 Ask me about **`[Your Expertise]`**
+**`I'm a Student`**
+
+
+- ⚡ Interested in building solutions at the intersection of **`Edge computing and AI`** and **`[Secondary Interest]`**  
+- 🌱 Currently learning **`ML`**  
+- 💬 Ask me about **Anything**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Current Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -19,7 +21,7 @@
 
 ### 🚀 Featured Projects
 
-[![A Customer Sentiment Analyser CLI](https://img.shields.io/badge/🔗-Project_1-2EA44F)](https://github.com/umogal/CustomerSentimentAnalyser)
+[A Customer Sentiment Analyser CLI](https://github.com/umogal/CustomerSentimentAnalyser)
 
 
 ---
