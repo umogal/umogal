@@ -85,9 +85,8 @@ I make things in accordance of two primary principles:
 </p>
 
 
-<br>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=umogal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <br>
 I am an architect and builder, not a basic vibe coder dependent on generative AI.
