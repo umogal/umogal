@@ -1,10 +1,13 @@
-![GitHub Streak](https://streak-stats.demolab.com?user=umogal&theme=github-dark)
+
 
 <div align="center"> <b> I create the future: I build AI, I don't rely on it to code. </b></div>
 <br>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=umogal&theme=github-dark)
+
 I build for elite performance and undeniable quality. My work spans hyperscale Cloud architectures, robust Full-Stack systems. I dabble in Robotics and IoT (ESP32 Systems and the like) as a hobby. 
 
+![17613949165066291244692465149392](https://github.com/user-attachments/assets/0331edb8-50df-4f8d-b8cb-deed5b1310dc)
 
 ![17613940036271253200488280834599](https://github.com/user-attachments/assets/5dfdc30d-cba8-40ac-b0ad-37dcd994287f)
 I make things in accordance of two primary principles:
