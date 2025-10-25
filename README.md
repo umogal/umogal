@@ -10,6 +10,7 @@ I build for elite performance and undeniable quality. My work spans hyperscale C
 ![17613949165066291244692465149392](https://github.com/user-attachments/assets/0331edb8-50df-4f8d-b8cb-deed5b1310dc)
 
 ![17613940036271253200488280834599](https://github.com/user-attachments/assets/5dfdc30d-cba8-40ac-b0ad-37dcd994287f)
+
 I make things in accordance of two primary principles:
 
 **Front-End**: Aesthetics are paramount. If a user interface isn't visually compelling and intuitive, the underlying code's value is diminished. Design elegance drives user adoption.
@@ -88,8 +89,6 @@ I make things in accordance of two primary principles:
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=umogal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <br>
-I am an architect and builder, not a basic vibe coder dependent on generative AI.
+
+I am an architect and builder, not a basic vibe coder dependent on generative AI. Contact me to think together.
