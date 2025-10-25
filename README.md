@@ -5,7 +5,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=umogal&theme=github-dark)
 
-I build for elite performance and undeniable quality. My work spans hyperscale Cloud architectures, robust Full-Stack systems. I dabble in Robotics and IoT (ESP32 Systems and the like) as a hobby. 
+My work spans hyperscale Cloud architectures, robust Full-Stack systems. I dabble in Robotics and IoT (ESP32 Systems and the like) as a hobby. 
 
 ![17613949165066291244692465149392](https://github.com/user-attachments/assets/0331edb8-50df-4f8d-b8cb-deed5b1310dc)
 
