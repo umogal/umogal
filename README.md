@@ -1,8 +1,5 @@
 
 
-<div align="center"> <b> I create the future: I build AI, I don't rely on it to code. </b></div>
-<br>
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=umogal&theme=github-dark)
 
 My work spans hyperscale Cloud architectures, robust Full-Stack systems. I dabble in Robotics and IoT (ESP32 Systems and the like) as a hobby. 
