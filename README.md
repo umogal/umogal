@@ -2,7 +2,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=umogal&theme=github-dark)
 
-My work spans hyperscale Cloud architectures, robust Full-Stack systems. I dabble in Robotics and IoT (ESP32 Systems and the like) as a hobby. 
+Although my work spans hyperscale Cloud architectures, I dabble in Robotics and IoT (ESP32 Systems and the like) as a hobby. 
 
 ![17613949165066291244692465149392](https://github.com/user-attachments/assets/0331edb8-50df-4f8d-b8cb-deed5b1310dc)
 
@@ -88,4 +88,4 @@ I make things in accordance of two primary principles:
 
 <br>
 
-I am an architect and builder, not a basic vibe coder dependent on generative AI. Contact me to think together.
+I am an software developer, not a basic vibe coder dependent on generative AI. If that sounds promising, Contact me to think together.
