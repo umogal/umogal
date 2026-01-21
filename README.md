@@ -88,4 +88,3 @@ I make things in accordance of two primary principles:
 
 <br>
 
-I am an software developer, not a basic vibe coder dependent on generative AI. If that sounds promising, Contact me to think together.
