@@ -8,7 +8,7 @@ I believe that, aesthetics are paramount. If a user interface isn't visually com
 > "Design elegance drives user adoption."
 >
 
-*Currently Dropping Most Of my projects here to focus on my education*
+*Currently focusing on my education*
 
 
 <h2 id="what-i-work-with"><span style="font-weight:bold;">𝗪𝗵𝗮𝘁 I 𝗪𝗼𝗿𝗸 𝗪𝗶𝘁𝗵</span></h2>
