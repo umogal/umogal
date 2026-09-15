@@ -4,9 +4,10 @@
 
  
 I believe that, aesthetics are paramount. If a user interface isn't visually compelling and intuitive, the underlying code's value is diminished. 
+
 >
 > "Design elegance drives user adoption."
->
+> - M.U. Mogal
 
 *Currently focusing on my education*
 
