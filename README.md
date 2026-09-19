@@ -1,6 +1,6 @@
 
 
-![GitHub Streak](https://streak-stats.demolab.com?Huser=umogal&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=umogal&theme=github-dark)
 
  
 I believe that, aesthetics are paramount. If a user interface isn't visually compelling and intuitive, the underlying code's value is diminished. 
