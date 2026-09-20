@@ -1,4 +1,6 @@
-
+<!-- STATS:START -->
+![GitHub stats](./assets/stats.svg)
+<!-- STATS:END -->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=umogal&theme=github-dark)
 
@@ -58,4 +60,3 @@ I believe that, aesthetics are paramount. If a user interface isn't visually com
 
 
 <br>
-
