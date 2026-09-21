@@ -2,7 +2,7 @@
 ![GitHub stats](./assets/stats.svg)
 <!-- STATS:END -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=umogal&theme=github-dark)
+
 
  
 I believe that, aesthetics are paramount. If a user interface isn't visually compelling and intuitive, the underlying code's value is diminished. 
@@ -58,5 +58,5 @@ I believe that, aesthetics are paramount. If a user interface isn't visually com
   <img src="https://github-readme-stats.vercel.app/api?username=umogal&show_icons=true&theme=radical" width="48%" />
 </p>
 
-
+![GitHub Streak](https://streak-stats.demolab.com?user=umogal&theme=github-dark)
 <br>
