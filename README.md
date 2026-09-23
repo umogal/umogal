@@ -2,12 +2,12 @@
 ![GitHub stats](./assets/stats.svg)
 <!-- STATS:END -->
 
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
   <img
     src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&pause=400&color=006400&center=true&width=435&lines=Hey%20there!%20I'm%20Mogal.%3B%20I%20build%20systems%20that%20survive%20contact%20with%20reality"
     alt="Typing SVG"
   />
-</a>
+</a> -->
 
 
 
