@@ -72,3 +72,5 @@ I believe that, aesthetics are paramount. If a user interface isn't visually com
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=umogal&theme=github-dark)
 <br>
+
+[![Contact Me | LinkedIn](https://img.shields.io/badge/Contact%20Me-LinkedIn-0A66C2?style=plastic&logo=maildotru&logoColor=black&labelColor=white)](https://www.linkedin.com/in/your-profile/) [![View | Portfolio](https://img.shields.io/badge/View-Portfolio-10B981?style=plastic&logo=googlechrome&logoColor=10B981&labelColor=000000)](https://mogal.uk)
