@@ -10,11 +10,16 @@
 </a> -->
 
 
+---
 
+<div align="center">
 
+![](https://em-content.zobj.net/source/microsoft-teams/400/technologist_1f9d1-200d-1f4bb.png)
+Hi! :)
 
+</div>
 
-
+---
 
  
 I believe that, aesthetics are paramount. If a user interface isn't visually compelling and intuitive, the underlying code's value is diminished. 
